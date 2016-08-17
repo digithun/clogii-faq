@@ -6,7 +6,7 @@ We use otter stack.
 
 ## What clogii overview look like?
 It's roughly look like this ATM.  
-[![](https://github.com/digithun/otter-faq/blob/master/img/clogii-stack-v1.0.0.png)](https://github.com/digithun/otter-faq/blob/master/img/clogii-stack-v1.0.0.png)
+[![](https://github.com/digithun/otter-faq/blob/master/img/clogii-overview-v1.0.0.png)](https://github.com/digithun/otter-faq/blob/master/img/clogii-overview-v1.0.0.png)
 
 # Designer
 No question about this yet tho.
