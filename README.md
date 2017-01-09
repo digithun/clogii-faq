@@ -8,5 +8,8 @@ We use otter stack.
 It's roughly look like this ATM.  
 [![](https://github.com/digithun/clogii-faq/blob/master/img/clogii-mobile-stack-v1.0.0.png)](https://github.com/digithun/clogii-faq/blob/master/img/clogii-mobile-stack-v1.0.0.png)
 
+## What clogii CMS stack look like?
+[![](https://github.com/digithun/clogii-faq/blob/master/img/clogii-cms-v1.0.0.png)](https://github.com/digithun/clogii-faq/blob/master/img/clogii-cms-v1.0.0.png)
+
 # Designer
 No question about this yet tho.
