@@ -13,3 +13,11 @@ It's roughly look like this ATM.
 
 # Designer
 No question about this yet tho.
+
+# APP SKU
+companyname-appname-platform-yearmonthdate-incrementialID
+Example
+digitun-clogi-ios-170310-001
+
+
+
